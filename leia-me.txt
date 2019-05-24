@@ -1,0 +1,24 @@
+------------------------------------------
+	  Locadora de Veículos
+	     Rafael Althaus
+------------------------------------------
+
+Notas para o professor:
+
+1. Estou enviando juntamente o arquivo word com a documentação,
+como combinamos;
+
+2. O arquivo foi exportado para Word, caso a formatação esteja fora
+do padrão posso imprimir o arquivo original e lhe entregar em mãos.
+
+
+Notas sobre o sistema:
+
+1. Limitações conhecidas:
+   1.1 - Ainda não existe tratamento para verificar datas inválidas;
+   1.2 - Ainda não é possível retornar para o menu anterior sem preencher
+         todos os campos nos cadastros;
+   1.3 - Problemas ao entrar na listagem de clientes/veículos sem que antes
+	 tenha sido cadastrado ao menos um registro.
+
+2. Os arquivos .DAT enviados juntos já possuem alguns registros cadastrados.
