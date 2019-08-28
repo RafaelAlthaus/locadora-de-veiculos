@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## 💻 Locadora de Veículos em C
 
 Projeto desenvolvimento para a matéria de Engenharia de Software na UTFPR, ano de 2017. Achei interessante compartilhar publicamente pelo planejamento e modelagem estarem bem documentados, além da utilização da linguagem C para um projeto com controle de dados.
